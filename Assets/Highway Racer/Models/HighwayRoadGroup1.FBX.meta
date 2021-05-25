@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 35862f95bbf123b47aa79e241d70145f
+timeCreated: 1452264305
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Asphalt
+    100004: GuardRail005
+    100006: HighwayRoadGroup1
+    100008: ElectricalLines
+    100010: GuardRails
+    100012: Sides
+    100014: AsphaltSection
+    100016: AsphaltSection 1
+    100018: SideObjects
+    100020: SideObjects 1
+    400000: //RootNode
+    400002: Asphalt
+    400004: GuardRail005
+    400006: HighwayRoadGroup1
+    400008: ElectricalLines
+    400010: GuardRails
+    400012: Sides
+    400014: AsphaltSection
+    400016: AsphaltSection 1
+    400018: SideObjects
+    400020: SideObjects 1
+    2300000: //RootNode
+    2300002: Asphalt
+    2300004: GuardRail005
+    2300006: HighwayRoadGroup1
+    2300008: ElectricalLines
+    2300010: GuardRails
+    2300012: Sides
+    2300014: AsphaltSection
+    2300016: AsphaltSection 1
+    2300018: SideObjects 1
+    3300000: //RootNode
+    3300002: Asphalt
+    3300004: GuardRail005
+    3300006: HighwayRoadGroup1
+    3300008: ElectricalLines
+    3300010: GuardRails
+    3300012: Sides
+    3300014: AsphaltSection
+    3300016: AsphaltSection 1
+    3300018: SideObjects 1
+    4300000: GuardRail005
+    4300002: Asphalt
+    4300004: HighwayRoadGroup1
+    4300006: ElectricalLines
+    4300008: GuardRails
+    4300010: Sides
+    4300012: AsphaltSection
+    4300014: AsphaltSection
+    4300016: SideObjects
+    6400000: Asphalt
+    6400002: GuardRail005
+    6400004: HighwayRoadGroup1
+    6400006: ElectricalLines
+    6400008: GuardRails
+    6400010: Sides
+    6400012: AsphaltSection
+    6400014: AsphaltSection 1
+    6400016: SideObjects 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8.8579998
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 0797ae9397ff054418100d322d3544c4
+timeCreated: 1449001325
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Mesh111
+    100002: Mesh112
+    100004: Mesh113
+    100006: Mesh114
+    100008: Mesh37
+    100010: Object001
+    100012: Object002
+    100014: Object003
+    100016: Object004
+    100018: //RootNode
+    100020: BrakeLights
+    100022: Headlights
+    100024: Box001
+    100026: Group005
+    100028: Group006
+    100030: Group007
+    100032: Group4
+    100034: Chassis
+    100036: Wheel_FL
+    100038: Wheel_FR
+    100040: Wheel_RL
+    100042: Wheel_RR
+    100044: Caliper
+    100046: Caliper 1
+    100048: Caliper 2
+    100050: Caliper 3
+    100052: Windows
+    100054: NotPaintableBody
+    100056: PaintableBody
+    400000: Mesh111
+    400002: Mesh112
+    400004: Mesh113
+    400006: Mesh114
+    400008: Mesh37
+    400010: Object001
+    400012: Object002
+    400014: Object003
+    400016: Object004
+    400018: //RootNode
+    400020: BrakeLights
+    400022: Headlights
+    400024: Box001
+    400026: Group005
+    400028: Group006
+    400030: Group007
+    400032: Group4
+    400034: Chassis
+    400036: Wheel_FL
+    400038: Wheel_FR
+    400040: Wheel_RL
+    400042: Wheel_RR
+    400044: Caliper
+    400046: Caliper 1
+    400048: Caliper 2
+    400050: Caliper 3
+    400052: Windows
+    400054: NotPaintableBody
+    400056: PaintableBody
+    2300000: Mesh111
+    2300002: Mesh112
+    2300004: Mesh113
+    2300006: Mesh114
+    2300008: Mesh37
+    2300010: Object001
+    2300012: Object002
+    2300014: Object003
+    2300016: Object004
+    2300018: BrakeLights
+    2300020: Headlights
+    2300022: Box001
+    2300024: Group005
+    2300026: Group006
+    2300028: Group007
+    2300030: Group4
+    2300032: Chassis
+    2300034: Wheel_FL
+    2300036: Wheel_FR
+    2300038: Wheel_RL
+    2300040: Wheel_RR
+    2300042: Caliper
+    2300044: Caliper 1
+    2300046: Caliper 2
+    2300048: Caliper 3
+    2300050: Windows
+    2300052: NotPaintableBody
+    2300054: PaintableBody
+    3300000: Mesh111
+    3300002: Mesh112
+    3300004: Mesh113
+    3300006: Mesh114
+    3300008: Mesh37
+    3300010: Object001
+    3300012: Object002
+    3300014: Object003
+    3300016: Object004
+    3300018: BrakeLights
+    3300020: Headlights
+    3300022: Box001
+    3300024: Group005
+    3300026: Group006
+    3300028: Group007
+    3300030: Group4
+    3300032: Chassis
+    3300034: Wheel_FL
+    3300036: Wheel_FR
+    3300038: Wheel_RL
+    3300040: Wheel_RR
+    3300042: Caliper
+    3300044: Caliper 1
+    3300046: Caliper 2
+    3300048: Caliper 3
+    3300050: Windows
+    3300052: NotPaintableBody
+    3300054: PaintableBody
+    4300000: Mesh111
+    4300002: Mesh37
+    4300004: Object001
+    4300006: Mesh112
+    4300008: Object002
+    4300010: Object003
+    4300012: Object004
+    4300014: Mesh113
+    4300016: Mesh114
+    4300018: Headlights
+    4300020: BrakeLights
+    4300022: Box001
+    4300024: Group4
+    4300026: Group005
+    4300028: Group006
+    4300030: Group007
+    4300032: Chassis
+    4300034: Wheel_RR
+    4300036: Wheel_RL
+    4300038: Wheel_FL
+    4300040: Wheel_FR
+    4300042: Caliper
+    4300044: Caliper
+    4300046: Caliper
+    4300048: Caliper
+    4300050: Windows
+    4300052: NotPaintableBody
+    4300054: PaintableBody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
